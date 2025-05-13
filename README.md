@@ -1,7 +1,3 @@
-| Nombre | Diego Ávila |
-|---|---|---|---|---|---|---|---|---|---|
-| Usuario | Diego8234 |
-|---|---|---|---|---|---|---|---|---|---|
-| Correo | diegoavila@estudiante.uc.cl |
-|---|---|---|---|---|---|---|---|---|---|
-|Aporte| Todo (xd) |
+|    Nombre   |  Usuario  |  Aporte  |              Correo              |
+|-------------|-----------|----------|----------------------------------|
+| Diego Ávila | Diego8234 | Todo(xd) | diegoavila@estudiante.uc.cl      |
